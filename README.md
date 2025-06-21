@@ -65,7 +65,7 @@ iris-knn-classifier/
 ├── README.md                     # This file
 ├── requirements.txt              # Python dependencies
 └── _assets/                      # Images or plots used in README and analysis
-    ├── iris_flower_pairplot.png
+    ├── iris_flowers_pairplot.png
     ├── confusion_matrix.png
     └── K_accuracy.png
 ```
@@ -102,7 +102,7 @@ The KNN classifier performs well, especially for `k=3` or `k=5` or 'k=7'.
 ### 🌸 Pairplot of Iris Dataset
 This plot shows how the three iris species are separated based on their sepal and petal measurements:
 
-![Pairplot of iris dataset](assets/iris_flower_pairplot.png)
+![Pairplot of iris dataset](assets/iris_flowers_pairplot.png)
 
 ### 🧮 Confusion Matrix
 Illustrates model performance visually:
