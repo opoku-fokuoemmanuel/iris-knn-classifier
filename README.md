@@ -67,7 +67,7 @@ iris-knn-classifier/
 └── _assets/                      # Images or plots used in README and analysis
     ├── iris_flower_pairplot.png
     ├── confusion_matrix.png
-    └── k_accuracy.png
+    └── K_accuracy.png
 ```
 
 ---
@@ -112,7 +112,7 @@ Illustrates model performance visually:
 ### 📈 Accuracy vs. k Plot
 Demonstrates how accuracy changes with different `k` values:
 
-![Accuracy plot](assets/k_accuracy.png)
+![Accuracy plot](assets/K_accuracy.png)
 
 ---
 
