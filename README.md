@@ -102,17 +102,17 @@ The KNN classifier performs well, especially for `k=3` or `k=5` or 'k=7'.
 ### 🌸 Pairplot of Iris Dataset
 This plot shows how the three iris species are separated based on their sepal and petal measurements:
 
-![Pairplot of iris dataset](_assets/iris_flower_pairplot.png)
+![Pairplot of iris dataset](assets/iris_flower_pairplot.png)
 
 ### 🧮 Confusion Matrix
 Illustrates model performance visually:
 
-![Confusion matrix](_assets/confusion_matrix.png)
+![Confusion matrix](assets/confusion_matrix.png)
 
 ### 📈 Accuracy vs. k Plot
 Demonstrates how accuracy changes with different `k` values:
 
-![Accuracy plot](_assets/k_accuracy.png)
+![Accuracy plot](assets/k_accuracy.png)
 
 ---
 
