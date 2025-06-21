@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classifier — KNN Project
 
-This project is a beginner-friendly introduction to supervised machine learning using the classic **Iris dataset**. You'll build a **K-Nearest Neighbors (KNN)** model to classify different species of iris flowers based on sepal and petal measurements.
+This project is a beginner-friendly introduction to supervised machine learning using the classic **Iris dataset**. I built a **K-Nearest Neighbors (KNN)** model to classify different species of iris flowers based on sepal and petal measurements.
 
 ---
 
@@ -89,11 +89,11 @@ The notebook will walk you through each step:
 ## 📊 Results
 | k Value | Accuracy |
 |---------|----------|
-| 3       | ~96.67%  |
-| 5       | ~96.67%  |
-| 7       | ~93.33%  |
+| 3       | ~93.50%  |
+| 5       | ~93.50%  |
+| 7       | ~93.50%  |
 
-The KNN classifier performs well, especially for `k=3` or `k=5`.
+The KNN classifier performs well, especially for `k=3` or `k=5` or 'k=7'.
 
 ---
 
@@ -116,7 +116,7 @@ Demonstrates how accuracy changes with different `k` values:
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What I Learnt
 - Why scaling is important for distance-based models like KNN
 - How to split and evaluate datasets
 - How to visualize class separation using pairplots
@@ -126,9 +126,9 @@ Demonstrates how accuracy changes with different `k` values:
 ---
 
 ## 🚧 Future Improvements
-- Try other classifiers (Logistic Regression, SVM, etc.)
-- Add cross-validation to improve model reliability
-- Turn into a web app using Streamlit or Gradio
+- I will try other classifiers (Logistic Regression, SVM, etc.)
+- I wil add cross-validation to improve model reliability
+- I will turn it into a web app using Streamlit or Gradio
 
 ---
 
@@ -137,12 +137,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## ⭐ Bonus: README Best Practices Used Here
-- ✅ **Descriptive title and summary**
-- ✅ **Clear table of contents**
-- ✅ **Installation and usage instructions**
-- ✅ **Image previews and static results**
-- ✅ **Learning takeaways and next steps**
-- ✅ **Professional structure and tone**
-
-Want to take this even further? Add badges, deployment links (if web app), or even short demo videos.
